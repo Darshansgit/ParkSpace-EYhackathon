@@ -8,8 +8,22 @@ With ParkSpace, the number plate of each vehicle will be embedded with a RFID ta
 </p>
 
 <h2> Hardware used 
+The hardware use for this project includes:
+1.RFID sensor
+2.RFID tags
+3.Arduino Uno
+4.IR sensor
+5.LEDs
+6.Bread board wires
+
+Parallely, I would like to thank FabLab CST and the CST management for their support and services which made the project completion much easier.
 
 <h2> Software used 
+Arduino IDE
+Fusion 360
+Node Red
+
   
 <h2> Process flow and architecture 
+
   
