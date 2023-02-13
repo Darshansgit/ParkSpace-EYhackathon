@@ -21,9 +21,9 @@ The hardware use for this project includes:
 <p>Parallely, I would like to thank FabLab CST and the CST management for their support and services which made the project completion much easier.</p>
 
 <h2> Softwares used: </h2>
-Arduino IDE
-Fusion 360
-Node Red
+<p>Arduino IDE</p>
+<p>Fusion 360</p>
+<p>Node Red </p>
 
   
 <h2> Process flow and architecture </h2>
