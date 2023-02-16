@@ -27,6 +27,6 @@ The hardware use for this project includes:
 
   
 <h2> Process flow and architecture </h2>
-
+![flowchart](https://user-images.githubusercontent.com/119427592/219261911-96fa2467-6258-428f-8e9e-a5e128a689d0.png)
 
   
